@@ -17,9 +17,8 @@ title: DAI.MOE
 email: hi@dai.moe
 description: >- # this means to ignore newlines until "baseurl:"
   Senior Solutions Architect Automotive Enterprise @ NVIDIA.
-  Former researcher @ Chair of Computer Architecture and Parallel Systems, Technical University of Munich. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://dai.moe" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: twittidai
 github_username:  twittidai
 
