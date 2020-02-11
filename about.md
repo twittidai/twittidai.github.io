@@ -1,18 +1,24 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
+permalink: /About Me/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am Dai Yang (@twittidai), senior solutions arechitect for automotive enterprise accounts at NVIDIA Germany.
+My work contact is daiy (a t) nvidia.com.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My daily work includes customer engagement regarding data center topics for NVIDIA DGX, Drive Constellation, NGC, Deepops, and manymore. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Connect with me at Linkedin: [https://www.linkedin.com/in/dai-yang-de/](https://www.linkedin.com/in/dai-yang-de/).
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+# CV
+
+- 2020 - now: Senior Solutions Architect Automotive Enterprise, [NVIDIA](https://www.nvidia.com)
+- 2017 - 2019: Research Associate and PhD Student at [Chair of Computer Architecture and Parallel Systems](https://in.tum.de/caps), [Technical University of Munich](https://www.tum.de).
+- 2015 - 2017: Software and Systems Entineer, [Airbus Defence and Space](https://www.airbus.com).
+- 2013 - 2015: IT Infrastructure, [UnternehmerTUM gGmbH](https://www.unternehmertum.de).
+
+# Publications 
+- t.b.d.
