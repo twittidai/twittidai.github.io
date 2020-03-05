@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: About Me
+title: Homepage
 layout: home
 ---
 
@@ -28,6 +28,7 @@ Connect with me at Linkedin: [https://www.linkedin.com/in/dai-yang-de/](https://
 ## Certifications and Languages
 - 2019 Certified Scrum Master
 - Full professional+: German, Madarin Chinese, English
+
 ## Degrees 
 - 2020 Dr. rer. nat. in Informatics from TU Munich
 - 2017 M.Sc. in Informatics from TU Munich
