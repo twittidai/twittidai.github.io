@@ -16,7 +16,7 @@ Connect with me at Linkedin: [https://www.linkedin.com/in/dai-yang-de/](https://
 
 # CV
 
-- 2020 - now: Senior Solutions Architect Automotive Enterprise, [NVIDIA](https://www.nvidia.com)
+- 2020 - now: Senior Solution Architect Datacenter, [NVIDIA](https://www.nvidia.com)
 - 2017 - 2019: Research Associate and PhD Student at [Chair of Computer Architecture and Parallel Systems](https://in.tum.de/caps), [Technical University of Munich](https://www.tum.de).
 - 2015 - 2017: Software and Systems Entineer, [Airbus Defence and Space](https://www.airbus.com).
 - 2013 - 2015: IT Infrastructure, [UnternehmerTUM gGmbH](https://www.unternehmertum.de).
@@ -24,6 +24,7 @@ Connect with me at Linkedin: [https://www.linkedin.com/in/dai-yang-de/](https://
 # Education
 
 ## Certifications and Languages
+- 2020 NVIDIA Certified DLI Instructor, Fundamentals of CUDA C/C++
 - 2019 Certified Scrum Master
 - Full professional+: German, Mandarin Chinese, English
 - Hobbiest: Japanese
@@ -35,7 +36,7 @@ Connect with me at Linkedin: [https://www.linkedin.com/in/dai-yang-de/](https://
 
 # Publications 
 ## Conference Full Papers and Dissertation
-- Amir Raoofy, Roman Karlstetter, Dai Yang, Carsten Trinitis, and Martin Schulz. *Time Series Mining at Petascale Performance.* In Proceedings of the International Supercomputing Conference 2020 (ISC'20). 2020, Frankfurt, Germany. Accepted for publication. 
+- Amir Raoofy, Roman Karlstetter, Dai Yang, Carsten Trinitis, and Martin Schulz. *Time Series Mining at Petascale Performance.* In Proceedings of the International Supercomputing Conference 2020 (ISC'20). 2020, Frankfurt, Germany. Winnner of 2020 Hans Meuer Award. 
 - Dai Yang. *Fault Tolerant Optimizations for HPC Systems.* PhD Thesis. TUM University Press. 2020, Munich, Germany. [Link](https://mediatum.ub.tum.de/1518787)
 - Alvaro Frank, Dai Yang, Andre Brinkmann, Martin Schulz, and Tim Suess. *Reducing False Node Failure Predictions in HPC.* In IEEE 26th International Conference on High Performance Computing, Data, and Analytics (HiPC) (pp. 323-332). 2019, Hyderabad, India. 
 - David Jauk, Dai Yang, and Martin Schulz. *Predicting faults in high performance computing systems: an in-depth survey of the state-of-the-practice*. In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC'19). 2019, Denver, CO, USA. 
