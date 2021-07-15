@@ -6,11 +6,6 @@ title: Homepage
 layout: home
 ---
 
----
-layout: page
-title: About Me
-permalink: /About Me/
----
 
 I am Dai Yang (@twittidai), senior solutions arechitect for automotive enterprise accounts at NVIDIA Germany.
 My work contact is daiy (a t) nvidia.com.
