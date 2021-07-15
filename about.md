@@ -12,6 +12,8 @@ My daily work includes customer engagement regarding data center topics for NVID
 Connect with me at Linkedin: [https://www.linkedin.com/in/dai-yang-de/](https://www.linkedin.com/in/dai-yang-de/).
 
 # Current Public Project
+- [NVIDIA Cambridge-1](https://www.nvidia.com/en-us/industries/healthcare-life-sciences/cambridge-1/)
+- [Getting Kubernetes Ready for the NVIDIA A100 GPU with Multi-Instance GPU](https://developer.nvidia.com/blog/getting-kubernetes-ready-for-the-a100-gpu-with-multi-instance-gpu/)
 - [A complete guide for CPU/single GPU/multi-GPU/multi-Node training using TensorFlow 2.0 + Horovod](https://github.com/zenodia/TF2_Workshop)
 
 # CV
@@ -37,6 +39,7 @@ Connect with me at Linkedin: [https://www.linkedin.com/in/dai-yang-de/](https://
 # Publications 
 ## Conference Full Papers and Dissertation
 - Amir Raoofy, Roman Karlstetter, Dai Yang, Carsten Trinitis, and Martin Schulz. *Time Series Mining at Petascale Performance.* In Proceedings of the International Supercomputing Conference 2020 (ISC'20). 2020, Frankfurt, Germany. Winnner of 2020 Hans Meuer Award. 
+- B Elis, D Yang, O Pearce, K Mohror, M Schulz. *QMPI: A next generation MPI profiling interface for modern HPC platforms.* In Parallel Computing, Volume 96, August 2020
 - Dai Yang. *Fault Tolerant Optimizations for HPC Systems.* PhD Thesis. TUM University Press. 2020, Munich, Germany. [Link](https://mediatum.ub.tum.de/1518787)
 - Alvaro Frank, Dai Yang, Andre Brinkmann, Martin Schulz, and Tim Suess. *Reducing False Node Failure Predictions in HPC.* In IEEE 26th International Conference on High Performance Computing, Data, and Analytics (HiPC) (pp. 323-332). 2019, Hyderabad, India. 
 - David Jauk, Dai Yang, and Martin Schulz. *Predicting faults in high performance computing systems: an in-depth survey of the state-of-the-practice*. In Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC'19). 2019, Denver, CO, USA. 
