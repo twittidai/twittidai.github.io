@@ -23,7 +23,7 @@ Connect with me at Linkedin: [https://www.linkedin.com/in/dai-yang-de/](https://
 
 - 2020 - now: Senior Solution Architect Datacenter, [NVIDIA](https://www.nvidia.com)
 - 2017 - 2019: Research Associate and PhD Student at [Chair of Computer Architecture and Parallel Systems](https://in.tum.de/caps), [Technical University of Munich](https://www.tum.de).
-- 2015 - 2017: Software and Systems Entineer, [Airbus Defence and Space](https://www.airbus.com).
+- 2015 - 2017: Software and Systems Engineer, [Airbus Defence and Space](https://www.airbus.com).
 - 2013 - 2015: IT Infrastructure, [UnternehmerTUM gGmbH](https://www.unternehmertum.de).
 
 # Education
