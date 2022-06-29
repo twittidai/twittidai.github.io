@@ -18,6 +18,7 @@ Connect with me at Linkedin: [https://www.linkedin.com/in/dai-yang-de/](https://
 
 # Current Public Project
 - [NVIDIA Cambridge-1](https://www.nvidia.com/en-us/industries/healthcare-life-sciences/cambridge-1/)
+- [Deploying NVIDIA Triton Inference Server at Scale with MIG and Kubernetes](https://developer.nvidia.com/blog/deploying-nvidia-triton-at-scale-with-mig-and-kubernetes/)
 - [Getting Kubernetes Ready for the NVIDIA A100 GPU with Multi-Instance GPU](https://developer.nvidia.com/blog/getting-kubernetes-ready-for-the-a100-gpu-with-multi-instance-gpu/)
 - [A complete guide for CPU/single GPU/multi-GPU/multi-Node training using TensorFlow 2.0 + Horovod](https://github.com/zenodia/TF2_Workshop)
 
