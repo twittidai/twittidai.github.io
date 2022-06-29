@@ -4,7 +4,8 @@ title: About Me
 permalink: /About Me/
 ---
 
-I am Dai Yang (@twittidai), senior solutions arechitect for automotive enterprise accounts at NVIDIA Germany.
+I am Dai Yang (@twittidai), senior solutions arechitect for enterprise datacenter at NVIDIA Germany.
+I lead the solution architecture for [NVIDIA Cambridge-1 Supercomputer](https://www.nvidia.com/en-us/industries/healthcare-life-sciences/cambridge-1/), ([Top500](https://www.top500.org/system/179960/)). 
 My work contact is daiy (a t) nvidia.com.
 
 My daily work includes customer engagement regarding data center topics for NVIDIA DGX, Drive Constellation, NGC, Deepops, and manymore. 
@@ -38,6 +39,7 @@ Connect with me at Linkedin: [https://www.linkedin.com/in/dai-yang-de/](https://
 
 # Publications 
 ## Conference Full Papers and Dissertation
+- Yi Ju, Amir Raoofy, Dai Yang, Erwin Laure, Martin Schulz. *Exploiting Reduced Precision for GPU-based Time Series Mining* In Proceedings of the 36th IEEE International Parallel and Distributed Processing Symposium (IPDPS' 22). 2022, Lyon, France. 
 - Amir Raoofy, Roman Karlstetter, Dai Yang, Carsten Trinitis, and Martin Schulz. *Time Series Mining at Petascale Performance.* In Proceedings of the International Supercomputing Conference 2020 (ISC'20). 2020, Frankfurt, Germany. Winnner of 2020 Hans Meuer Award. 
 - B Elis, D Yang, O Pearce, K Mohror, M Schulz. *QMPI: A next generation MPI profiling interface for modern HPC platforms.* In Parallel Computing, Volume 96, August 2020
 - Dai Yang. *Fault Tolerant Optimizations for HPC Systems.* PhD Thesis. TUM University Press. 2020, Munich, Germany. [Link](https://mediatum.ub.tum.de/1518787)
