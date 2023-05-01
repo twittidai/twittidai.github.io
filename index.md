@@ -7,20 +7,31 @@ layout: home
 ---
 
 
-I am Dai Yang (@twittidai), senior solutions arechitect for enterprise datacenter at NVIDIA Germany.
-I lead the solution architecture for [NVIDIA Cambridge-1 Supercomputer](https://www.nvidia.com/en-us/industries/healthcare-life-sciences/cambridge-1/), ([Top500](https://www.top500.org/system/179960/)). 
+I am Dai (Arts) Yang , senior solutions architect for DGX, datacenter, and cloud. 
 
+I lead technically the solution architecture for DGX Cloud in Europe, Middle East and Africa, at NVIDIA Corp. 
+I am the responsible solution architect for [NVIDIA Cambridge-1](https://www.top500.org/system/179960/) previously. 
 My work contact is daiy (a t) nvidia.com.
 
-My daily work includes customer engagement regarding data center topics for NVIDIA DGX systems, OEM Supercomputers, NVAIE, NGC, BaseCommand, and manymore. 
 
 Connect with me at Linkedin: [https://www.linkedin.com/in/dai-yang-de/](https://www.linkedin.com/in/dai-yang-de/).
 
-# Current Public Project
-- [NVIDIA Cambridge-1](https://www.nvidia.com/en-us/industries/healthcare-life-sciences/cambridge-1/)
-- [Deploying NVIDIA Triton Inference Server at Scale with MIG and Kubernetes](https://developer.nvidia.com/blog/deploying-nvidia-triton-at-scale-with-mig-and-kubernetes/)
+# Responsible Projects
+- [NVIDIA Cambridge-1](https://www.nvidia.com/en-us/industries/healthcare-life-sciences/cambridge-1/), ([Top500](https://www.top500.org/system/179960/)). 
+- [NVIDIA DGX Cloud](https://www.nvidia.com/en-us/data-center/dgx-cloud/)
+- [Tokyo-1](https://www.hpcwire.com/2023/03/21/nvidia-announces-tokyo-1-generative-ai-supercomputer-amid-gradual-h100-rollout/)
+- [NEOM SuperPOD](https://www.neom.com/en-us/newsroom/tonomus-oracle-nvidia) 
+- [undisclosed Sweden SuperPOD](https://www.aixia.se/en/cgit-takes-new-order-with-new-customer-value-34-msek/)
+
+# Articles 
+*[NVIDIA DevBlog Author Page](https://developer.nvidia.com/blog/author/daiy/)*
+- [Autoscaling NVIDIA Riva Deployment with Kubernetes for Speech AI in Production](https://developer.nvidia.com/blog/autoscaling-nvidia-riva-deployment-with-kubernetes-for-speech-ai-in-production/)
+- [Accelerating Volkswagen Connected Car Data Pipelines 100x Faster with NVIDIA RAPIDS](https://developer.nvidia.com/blog/accelerating-volkswagen-connected-car-data-pipelines-100x-faster-with-nvidia-rapids/)
 - [Getting Kubernetes Ready for the NVIDIA A100 GPU with Multi-Instance GPU](https://developer.nvidia.com/blog/getting-kubernetes-ready-for-the-a100-gpu-with-multi-instance-gpu/)
 - [A complete guide for CPU/single GPU/multi-GPU/multi-Node training using TensorFlow 2.0 + Horovod](https://github.com/zenodia/TF2_Workshop)
+
+# Teaching
+I teach various guest lectures and partical courses at TUM.  
 
 # CV
 
@@ -44,6 +55,7 @@ Connect with me at Linkedin: [https://www.linkedin.com/in/dai-yang-de/](https://
 
 # Publications 
 ## Conference Full Papers and Dissertation
+- Petru-Daniel Tudosiu, Walter Hugo Lopez Pinaya, Mark S. Graham, Pedro Borges, Virginia Fernandez, Dai Yang, Jeremy Appleyard, Guido Novati, Disha Mehra, Mike Vella, Parashkev Nachev, Sébastien Ourselin, M. Jorge Cardoso. *Morphology-Preserving Autoregressive 3D Generative Modelling of the Brain.* SASHIMI@MICCAI 2022: 66-78
 - Yi Ju, Amir Raoofy, Dai Yang, Erwin Laure, Martin Schulz. *Exploiting Reduced Precision for GPU-based Time Series Mining* In Proceedings of the 36th IEEE International Parallel and Distributed Processing Symposium (IPDPS' 22). 2022, Lyon, France. 
 - Amir Raoofy, Roman Karlstetter, Dai Yang, Carsten Trinitis, and Martin Schulz. *Time Series Mining at Petascale Performance.* In Proceedings of the International Supercomputing Conference 2020 (ISC'20). 2020, Frankfurt, Germany. Winnner of 2020 Hans Meuer Award. 
 - B Elis, D Yang, O Pearce, K Mohror, M Schulz. *QMPI: A next generation MPI profiling interface for modern HPC platforms.* In Parallel Computing, Volume 96, August 2020
